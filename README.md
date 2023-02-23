@@ -1,4 +1,4 @@
-# Docker images for Parrot OS
+# Docker images for Ching OS
 
 Docker is a powerful technology that allows users to run containers universally on any host platform.
 
