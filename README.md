@@ -4,7 +4,7 @@ Docker is a powerful technology that allows users to run containers universally 
 
 Docker uses template images, and allows the user to start several instances of the same template, destroy them, or build new custom templates on top of them.
 
-Parrot uses docker to allow its users to use its vast arsenal of tools on any platform supported by docker.
+Ching OS uses docker to allow its users to use its vast arsenal of tools on any platform supported by docker.
 
 [Parrot Core](#parrotseccore)
 
